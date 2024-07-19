@@ -1,1 +1,1 @@
-Hello world.
+SQL is actually pretty great.
